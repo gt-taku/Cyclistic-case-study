@@ -6,5 +6,5 @@ I used Mysql as a main tool for this analysis. This repository contains queries 
 - cleaning data
 - analyzing data
 
-For more detail of this case study you can check my article on [Medium]()
+For more detail of this case study you can check my article on [Medium](https://medium.com/@takuroushijima_20814/case-study-cyclistic-bike-share-analysis-5be7226be03d)
 
